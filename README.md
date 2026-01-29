@@ -55,4 +55,22 @@ El objetivo es que cualquier usuario pueda interpretar el tablero sin necesidad 
 
 
 ## Dashboard
+### Vista general
+Vista general del desempeño del ecommerce, permite monitorear KPIs clave y comparar resultados entre períodos mediante filtros interactivos.
+<div align="center">
+<img src="images/OilistDashboard_VistaGeneral.JPG" width="700"/> </div>
 
+### Vista Marketing
+Análisis de comportamiento de compra
+<div align="center">
+<img src="images/OilistDashboard_Marketing.JPG" width="700"/> </div>
+
+### Vista Logística
+Seguimiento del desempeño logístico, tiempos de entrega y distribución geográfica, permitiendo identificar áreas con bajo rendimiento.
+<div align="center">
+<img src="images/OilistDashboard_Logistica.JPG" width="700"/> </div>
+
+### Cuellos de botella
+Identificación visual de cuellos de botella operativos mediante comparaciones entre períodos y resaltado de métricas críticas.
+<div align="center">
+<img src="images/OilistDashboard_CuellosDeBotella.JPG" width="700"/> </div>
